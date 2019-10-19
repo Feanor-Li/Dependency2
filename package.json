@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Js day 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pingxuan Li (Lily)",
+  "license": "ISC",
+  "dependencies": {
+    "ngraph.physics.simulator": "^1.0.0"
+  },
+  "devDependencies": {}
+}
